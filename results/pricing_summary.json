@@ -1,0 +1,30 @@
+[
+  {
+    "product": "Domestic Caplet",
+    "monte_carlo_price": 0.006868701137836414,
+    "standard_error": 6.375661414460136e-05,
+    "analytic_price": 0.006926654300351783,
+    "absolute_error": 5.795316251536956e-05
+  },
+  {
+    "product": "Quanto Foreign Caplet",
+    "monte_carlo_price": 0.003420915312662036,
+    "standard_error": 3.4278210280888e-05,
+    "analytic_price": 0.0034539854398160084,
+    "absolute_error": 3.307012715397231e-05
+  },
+  {
+    "product": "FX Call On Terminal Spot",
+    "monte_carlo_price": 0.18186116581389378,
+    "standard_error": 0.0015825762400215827,
+    "analytic_price": 0.18021247027219042,
+    "absolute_error": 0.0016486955417033544
+  },
+  {
+    "product": "Foreign Caplet With FX Conversion",
+    "monte_carlo_price": 0.005973721533644527,
+    "standard_error": 7.293102011663226e-05,
+    "analytic_price": null,
+    "absolute_error": null
+  }
+]

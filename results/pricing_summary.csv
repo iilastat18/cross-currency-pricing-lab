@@ -1,0 +1,5 @@
+product,monte_carlo_price,standard_error,analytic_price,absolute_error
+Domestic Caplet,0.00686870,0.00006376,0.00692665,0.00005795
+Quanto Foreign Caplet,0.00342092,0.00003428,0.00345399,0.00003307
+FX Call On Terminal Spot,0.18186117,0.00158258,0.18021247,0.00164870
+Foreign Caplet With FX Conversion,0.00597372,0.00007293,,

@@ -1,0 +1,51 @@
+[
+  {
+    "correlation_fx_foreign": -0.75,
+    "foreign_drift": 0.029700000000000004,
+    "analytic_price": 0.00705979971815754,
+    "monte_carlo_price": 0.007123446408153871,
+    "standard_error": 6.363173955115186e-05
+  },
+  {
+    "correlation_fx_foreign": -0.5,
+    "foreign_drift": 0.019799999999999998,
+    "analytic_price": 0.006146665087878764,
+    "monte_carlo_price": 0.00606206288752215,
+    "standard_error": 5.785094178508601e-05
+  },
+  {
+    "correlation_fx_foreign": -0.25,
+    "foreign_drift": 0.009899999999999997,
+    "analytic_price": 0.0053232943317147174,
+    "monte_carlo_price": 0.0052899899945435674,
+    "standard_error": 5.308980927358968e-05
+  },
+  {
+    "correlation_fx_foreign": 0.0,
+    "foreign_drift": -4.336808689942018e-19,
+    "analytic_price": 0.004584916577221774,
+    "monte_carlo_price": 0.004538099562280417,
+    "standard_error": 4.834565724447179e-05
+  },
+  {
+    "correlation_fx_foreign": 0.25,
+    "foreign_drift": -0.0099,
+    "analytic_price": 0.003926544995475725,
+    "monte_carlo_price": 0.003892880208068917,
+    "standard_error": 4.439718638893387e-05
+  },
+  {
+    "correlation_fx_foreign": 0.5,
+    "foreign_drift": -0.019799999999999998,
+    "analytic_price": 0.0033430135059488108,
+    "monte_carlo_price": 0.0033784988078695353,
+    "standard_error": 4.084345539049811e-05
+  },
+  {
+    "correlation_fx_foreign": 0.75,
+    "foreign_drift": -0.029699999999999997,
+    "analytic_price": 0.0028290235768835114,
+    "monte_carlo_price": 0.0028636441463729422,
+    "standard_error": 3.748876084643825e-05
+  }
+]

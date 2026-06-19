@@ -1,0 +1,51 @@
+<svg width="1500" height="920" viewBox="0 0 1500 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1500" height="920" rx="28" fill="#0B1220"/>
+<text x="140" y="108" fill="#F5F7FB" font-size="40" font-weight="700" font-family="SF Pro Display, Helvetica, Arial, sans-serif">Quanto Caplet Sensitivity To FX / Foreign Correlation</text>
+<text x="140" y="146" fill="#91A4BD" font-size="18" font-family="SF Pro Text, Helvetica, Arial, sans-serif">Higher positive FX-foreign correlation makes the quanto drift more negative and pushes the price lower.</text>
+<line x1="140" y1="780" x2="1350" y2="780" stroke="#32455E" stroke-width="2"/>
+<line x1="140" y1="200" x2="140" y2="780" stroke="#32455E" stroke-width="2"/>
+<rect x="1020" y="84" width="18" height="18" rx="4" fill="#FFC86E"/>
+<text x="1052" y="99" fill="#DDE8F4" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">Analytic</text>
+<rect x="1170" y="84" width="18" height="18" rx="4" fill="#61D9FF"/>
+<text x="1202" y="99" fill="#DDE8F4" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">Monte Carlo</text>
+<line x1="140" y1="780.0" x2="1350" y2="780.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="42" y="786.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0025</text>
+<line x1="140" y1="635.0" x2="1350" y2="635.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="42" y="641.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0038</text>
+<line x1="140" y1="490.0" x2="1350" y2="490.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="42" y="496.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0050</text>
+<line x1="140" y1="345.0" x2="1350" y2="345.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="42" y="351.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0063</text>
+<line x1="140" y1="200.0" x2="1350" y2="200.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="42" y="206.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0076</text>
+<line x1="140.0" y1="200" x2="140.0" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="122.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">-0.75</text>
+<line x1="341.7" y1="200" x2="341.7" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="323.7" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">-0.50</text>
+<line x1="543.3" y1="200" x2="543.3" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="525.3" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">-0.25</text>
+<line x1="745.0" y1="200" x2="745.0" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="727.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">+0.00</text>
+<line x1="946.7" y1="200" x2="946.7" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="928.7" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">+0.25</text>
+<line x1="1148.3" y1="200" x2="1148.3" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="1130.3" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">+0.50</text>
+<line x1="1350.0" y1="200" x2="1350.0" y2="780" stroke="#132338" stroke-width="1"/>
+<text x="1332.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">+0.75</text>
+<path d="M 140.00 256.44 L 341.67 360.95 L 543.33 455.19 L 745.00 539.70 L 946.67 615.06 L 1148.33 681.85 L 1350.00 740.68" stroke="#FFC86E" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 140.00 249.15 L 341.67 370.63 L 543.33 459.00 L 745.00 545.06 L 946.67 618.91 L 1148.33 677.79 L 1350.00 736.72" stroke="#61D9FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="140.00" cy="256.44" r="7" fill="#FFC86E"/>
+<circle cx="341.67" cy="360.95" r="7" fill="#FFC86E"/>
+<circle cx="543.33" cy="455.19" r="7" fill="#FFC86E"/>
+<circle cx="745.00" cy="539.70" r="7" fill="#FFC86E"/>
+<circle cx="946.67" cy="615.06" r="7" fill="#FFC86E"/>
+<circle cx="1148.33" cy="681.85" r="7" fill="#FFC86E"/>
+<circle cx="1350.00" cy="740.68" r="7" fill="#FFC86E"/>
+<circle cx="140.00" cy="249.15" r="7" fill="#61D9FF"/>
+<circle cx="341.67" cy="370.63" r="7" fill="#61D9FF"/>
+<circle cx="543.33" cy="459.00" r="7" fill="#61D9FF"/>
+<circle cx="745.00" cy="545.06" r="7" fill="#61D9FF"/>
+<circle cx="946.67" cy="618.91" r="7" fill="#61D9FF"/>
+<circle cx="1148.33" cy="677.79" r="7" fill="#61D9FF"/>
+<circle cx="1350.00" cy="736.72" r="7" fill="#61D9FF"/>
+</svg>
