@@ -69,15 +69,22 @@ The main experiment:
 - `results/pricing_summary.csv`
 - `results/pricing_summary.json`
 - `results/pricing_comparison.svg`
+- `results/product_price_breakdown.svg`
 - `results/quanto_correlation_sensitivity.csv`
 - `results/quanto_correlation_sensitivity.json`
 - `results/quanto_correlation_sensitivity.svg`
+- `results/quanto_drift_profile.svg`
 
 ## Preview
 
-![Pricing comparison](results/pricing_comparison.svg)
-
-![Quanto correlation sensitivity](results/quanto_correlation_sensitivity.svg)
+<p align="center">
+  <img src="results/pricing_comparison.svg" width="49%" alt="Pricing comparison" />
+  <img src="results/product_price_breakdown.svg" width="49%" alt="Product price breakdown" />
+</p>
+<p align="center">
+  <img src="results/quanto_correlation_sensitivity.svg" width="49%" alt="Quanto correlation sensitivity" />
+  <img src="results/quanto_drift_profile.svg" width="49%" alt="Quanto drift profile" />
+</p>
 
 ## Example Results
 
