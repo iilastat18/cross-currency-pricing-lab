@@ -42,21 +42,21 @@
   <rect x="872" y="468" width="616" height="210" rx="26" fill="#262730" stroke="#808495" stroke-width="1.1"/>
   <text x="904" y="512" fill="#FFFFFF" font-size="24" font-weight="700" font-family="Inter, Arial, sans-serif">Base-case product mix</text>
   
-            <text x="996" y="308" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">Domestic caplet</text>
-            <rect x="996" y="318" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="318" width="11.3" height="18" rx="9" fill="#ABB6FF"/>
+            <text x="996" y="558" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">Domestic caplet</text>
+            <rect x="996" y="566" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="566" width="11.3" height="18" rx="9" fill="#ABB6FF"/>
             
-            <text x="996" y="364" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">Quanto caplet</text>
-            <rect x="996" y="374" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="374" width="5.6" height="18" rx="9" fill="#ABB6FF"/>
+            <text x="996" y="586" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">Quanto caplet</text>
+            <rect x="996" y="594" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="594" width="5.6" height="18" rx="9" fill="#ABB6FF"/>
             
-            <text x="996" y="420" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">FX call</text>
-            <rect x="996" y="430" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="430" width="300.0" height="18" rx="9" fill="#ABB6FF"/>
+            <text x="996" y="614" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">FX call</text>
+            <rect x="996" y="622" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="622" width="300.0" height="18" rx="9" fill="#ABB6FF"/>
             
-            <text x="996" y="476" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">FX-converted caplet</text>
-            <rect x="996" y="486" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="486" width="9.8" height="18" rx="9" fill="#ABB6FF"/>
+            <text x="996" y="642" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">FX-converted caplet</text>
+            <rect x="996" y="650" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="650" width="9.8" height="18" rx="9" fill="#ABB6FF"/>
             
 
   
@@ -78,5 +78,5 @@
       <text x="658" y="788" fill="#6BDBCB" font-size="40" font-weight="700" font-family="Inter, Arial, sans-serif">7 pts</text>
     </g>
     
-  <text x="86" y="864" fill="#808495" font-size="20" font-family="Inter, Arial, sans-serif">cross-currency-pricing-lab • public portfolio project with reproducible outputs and README-ready visuals</text>
+  <text x="86" y="844" fill="#808495" font-size="18" font-family="Inter, Arial, sans-serif">cross-currency-pricing-lab • public portfolio project with reproducible outputs and README-ready visuals</text>
 </svg>
