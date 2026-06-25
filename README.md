@@ -39,39 +39,39 @@ The result is a pricing repo that feels more like a real derivatives lab than a 
 
 ## Core Formulas
 
-The repo uses a compact lognormal terminal-value setup. For a generic state variable \(X_t\),
+The repo uses a compact lognormal terminal-value setup. For a generic state variable $X_t$,
 
-$$
+```math
 X_t = X_0 \exp\left(\left(\mu - \tfrac{1}{2}\|\lambda\|^2\right)t + \lambda^\top W_t\right).
-$$
+```
 
 In the domestic terminal-measure view used here, the foreign forward carries the quanto drift
 
-$$
+```math
 \mu_f = - \langle \lambda_f, \lambda_{FFX} \rangle,
-$$
+```
 
 which is the main cross-currency effect explored in the correlation sweep.
 
 The initial forward FX level is linked to spot FX through discount factors:
 
-$$
+```math
 FFX(0,T_2) = S_0 \frac{P^f(0,T_2)}{P^d(0,T_2)}.
-$$
+```
 
 Representative discounted payoffs in the repo are:
 
-$$
+```math
 \text{Domestic caplet} = P^d(0,T_2)\,\delta\,(F^d_{T_1} - K)^+,
-$$
+```
 
-$$
+```math
 \text{Quanto foreign caplet} = P^d(0,T_2)\,\delta\,(F^f_{T_1} - K)^+,
-$$
+```
 
-$$
+```math
 \text{FX call} = P^d(0,T_2)\,(S_{T_2} - K)^+.
-$$
+```
 
 ## What It Shows
 
