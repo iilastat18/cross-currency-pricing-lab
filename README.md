@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Cross Currency Pricing Lab</h1>
   <p><strong>A public-facing Monte Carlo pricing project for a simplified hybrid cross-currency model with quanto effects, FX-linked payoffs, and scenario analysis.</strong></p>
-  <p>Built as an independent portfolio project inspired by cross-currency coursework, but rewritten for public presentation with a cleaner structure and experiment-first workflow.</p>
+  <p>Built as a compact portfolio project with a cleaner structure and an experiment-first workflow.</p>
 </div>
 
 <p align="center">
@@ -123,6 +123,5 @@ cross-currency-pricing-lab/
 
 ## Notes
 
-- This is an independent public rebuild, not a mirror of a course repository.
 - The model intentionally keeps the tenor structure minimal so the cross-currency mechanics remain visible.
 - The foreign forward rate carries a quanto drift term under the domestic terminal measure, which is the key pricing effect explored in the scenario analysis.
